@@ -1,0 +1,4 @@
+name: AssemblyWar
+version: ${project.version}
+main: net.mcdiverse.assemblywar.AssemblyWar
+api-version: 1.16
